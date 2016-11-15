@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="checkin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CHotel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CRoom.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Customer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DazongTui.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DazongZhu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="deleteroom.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="dialog.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="dialogDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fee.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FindName.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FindRoom.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="reverse_check.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RoomMap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RoomPrice.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RuZhuLv.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Service.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SysLogin.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="welcome1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="YingYeE.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="checkin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CHotel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CRoom.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Customer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DazongTui.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DazongZhu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="deleteroom.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="dialog.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="dialogDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="fee.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FindName.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FindRoom.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="reverse_check.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RoomMap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RoomPrice.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RuZhuLv.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Service.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SysLogin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="welcome1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="YingYeE.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\bitmap1.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\bkg1.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\chukou.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\dialog.ico">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\dialog.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\dlg1.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\louti.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\mainbkg.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\men.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\room.BMP">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\roomfull.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\syslogin.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\tip1back.bmp">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="dialog.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
